@@ -28,6 +28,7 @@ else
     echo "Backup failed: $(date)" >> $LOG_FILE
 fi
 
+
 Scheduling Backups:
 Configure cron Jobs:
 crontab -e
